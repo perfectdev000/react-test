@@ -1,0 +1,17 @@
+.app {
+  padding: 0px;
+  position: relative;
+  font-family: Poppins;
+  font-style: normal;
+  color: white;
+}
+
+.main_container {
+  width: 100%;
+  margin: 0px ;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (max-width: 768px) {  
+    
+}

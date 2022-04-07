@@ -44,7 +44,7 @@ const Top = (props) => {
     return (
         <React.Fragment>
             <div className={classes.container}>
-                <div className={classes.leftnav} style={{display: navDisplay}}>
+                <div className={classes.leftnav + ' w3-animate-left'} style={{display: navDisplay}}>
                     <div className={classes.navBtn} onClick={toggleNav}>
                         <svg width="38" height="23" viewBox="0 0 38 23" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <rect x="0.5" y="0.5" width="36.5714" height="2.28571" fill="black"/>

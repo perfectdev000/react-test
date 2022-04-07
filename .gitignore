@@ -10,6 +10,8 @@
 
 # production
 /build
+/ignore_me
+/ignore
 
 # misc
 .DS_Store
